@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS `burndown` (
 --
 
 INSERT INTO `burndown` (`key`, `pid`, `description`, `effort`, `start`, `deadline`, `progress`, `time`) VALUES
-(1, 1, 'this is test description', 10, '12', 14, 123, '3');
+(1, 1, 'this is test description', 10, '14/11/2015', 14/10/2015, 123, '3');
 
 -- --------------------------------------------------------
 
